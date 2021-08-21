@@ -1,1 +1,1 @@
-Created an application using MVVM architecture along with Navigation components. User can search images using Pixaby API where we are getting previewURL, largeImageURL & user from hits array. Initially at Home screen a default search is triggered using search term flower showing image records and upon item click it is navigated to its detail screen where we can zoom the image. A search is also given to search any image using Pixaby API.
+
