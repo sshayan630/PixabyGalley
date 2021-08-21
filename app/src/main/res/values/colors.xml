@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <color name="colorPrimary">#10BEAC</color>-->
+    <color name="sub_title_color">#4D4B4B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black_transparent">#A6000000</color>
+    <color name="black">#000000</color>
+    <color name="red">#E72E09</color>
+    <color name="light_gray">#9E9E9E</color>
+    <color name="bottom_line_light_gray">#757575</color>
+    <color name="notify_list_item_bg">#33D8D8D8</color>
+
+    <color name="checkbox_color_light_gray">#67FFFFFF</color>
+    <color name="profile_light_gray">#67000000</color>
+
+    <color name="app_primary_text_color">#2B6D75</color>
+    <color name="app_text_color_grey">#B1B2B3</color>
+    <color name="app_primary_text_color_light">#ABFFDF</color>
+    <color name="app_text_color_blue">#010A38</color>
+    <color name="app_text_color_black">#000000</color>
+    <color name="app_text_color_white">#ffffff</color>
+    <color name="app_text_color_red">#E72E09</color>
+    <color name="app_text_color_gray">#2B6D75</color>
+    <color name="app_edit_text_line">#B7D7CA</color>
+    <color name="app_card_green">#11A532</color>
+    <color name="app_card_yellow">#FFE500</color>
+    <color name="app_light_blue_background">#1C2B6D75</color>
+    <color name="app_background_color_white">#ffffff</color>
+    <color name="dialog_backgorund">#8e3723</color>
+
+    <color name="checkbox_color">#1C4D53</color>
+    <color name="checkbox_unselected_color">#8A010101</color>
+    <color name="checkbox_color_white">#FFFFFF</color>
+
+
+    <color name="questionere_selected">#2B6D75</color>
+    <color name="questionere_unselected">#662B6D75</color>
+    <color name="progress_color">#656666</color>
+    <color name="progress_color_white">#ffffff</color>
+
+    <color name="dotted_color">#bdd6cb</color>
+
+    <color name="transparent_white">#F30000</color>
+
+    <color name="kprogresshud_default_color">#b1000000</color>
+    <color name="kprogresshud_grey_color">#449E9E9E</color>
+    <color name="gray_color">#449E9E9E</color>
+    <color name="member_type_parent_background">#21565D</color>
+    <color name="member_type_background">#173F44</color>
+    <color name="children_note_color">#B6D7CA</color>
+
+
+    <color name="colorPrimary">#D9D9D9</color>
+    <color name="colorPrimaryDark">#D9D9D9</color>
+    <color name="color_Primary">#719E19</color>
+    <color name="colorAccent">#719E19</color>
+    <color name="colorControlNormal">#719E19</color>
+    <color name="colorControlActivated">#719E19</color>
+    <color name="colorControlHighlight">#719E19</color>
+    <color name="color_white_gray">#848789</color>
+    <color name="disable_color">#4DFFFFFF</color>
+    <color name="color_gray_alpha">#9B9B9B</color>
+    <color name="color_green">#719E19</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="dark">#D9D9D9</color>
+    <color name="sep_color">#eeeeee</color>
+    <color name="whiteTwo">#d8d8d8</color>
+    <color name="whiteThree">#e4e1e1</color>
+    <color name="whiteFour">#e9e9e9</color>
+    <color name="whiteFive">#d7d7d7</color>
+    <color name="whiteSix">#f8f8f8</color>
+    <color name="whiteSeven">#ededed</color>
+    <color name="dealspurple">#76348f</color>
+    <color name="dealspurple_light">#4D76348F</color>
+    <color name="popular_purple">#753b85</color>
+    <color name="bg_end_color">#F4F7EB</color>
+
+    <color name="dealspink">#9e9e9e</color>
+    <color name="transparent_white_50_percent">#80FFFFFF</color>
+    <color name="greyishBrown">#4a4a4a</color>
+    <color name="calendar_day_color">#808385</color>
+    <color name="brownishGrey">#6b6b6b</color>
+    <color name="coolGrey">#919192</color>
+    <color name="snack_dismiss">#2e83bf</color>
+    <color name="snack_success">#06ac54</color>
+    <color name="inputColor">#242424</color>
+    <color name="inputColorTransparent">#4D242424</color>
+    <color name="charcoalGrey">#3c4946</color>
+    <color name="start_color_green">#157d75</color>
+    <color name="end_color_green">#353738</color>
+    <color name="steelGrey">#848789</color>
+    <color name="package_title">#393E3E</color>
+    <color name="billing_background">#FCFCFB</color>
+    <color name="titleColor">#353738</color>
+    <color name="titleColor_50">#80353738</color>
+    <color name="brownishPink">#be8768</color>
+    <color name="pumpkinOrange">#ff8000</color>
+    <color name="warmGrey">#979797</color>
+    <color name="darkBlueGrey">#0e2430</color>
+    <color name="lightGreyTwo">#f1f1eb</color>
+    <color name="gunmetal">#5c5d5d</color>
+    <color name="purple">#6a17aa</color>
+    <color name="lightGrey">#e2e1da</color>
+    <color name="new_grey">#FF848789</color>
+    <color name="liteGreyBg">#C3C4BE</color>
+    <color name="transparent_grey_95_percent">#F2C3C4BE</color>
+    <color name="side_menu_separator">#4DE2E1DA</color>
+    <color name="grey_transaction_bg">#C3C4BE</color>
+    <color name="liteLiteGreyBg">#3C4946</color>
+    <color name="lightSimiGrey">#F4F4F4</color>
+    <color name="lightButtonGrey">#afafaf</color>
+    <color name="purpleBrown">#231f20</color>
+    <color name="lightMauve">#c6c0c2</color>
+    <color name="light_items">#c0c0c0</color>
+    <color name="lightGray">#737373</color>
+
+    <color name="black_dimmed">#4D000000</color>
+    <color name="black_dimmed2">#8A000000</color>
+    <color name="ash_black">#505050</color>
+    <color name="gray_dark">#646161</color>
+    <color name="greyish">#acacac</color>
+    <color name="sub_title">#FF6B6B6B</color>
+    <color name="greyish_lite">#3c4946</color>
+    <color name="brownishGreyTwo">#666666</color>
+    <color name="darkGrey">#353738</color>
+    <color name="darkGreyWithAlpha">#33353738</color>
+    <color name="brownGrey">#bd8667</color>
+    <color name="legentsColor">#898989</color>
+    <color name="pinkyRed">#fb193f</color>
+    <color name="green">#99719e19</color>
+    <color name="dark_green">#304409</color>
+    <color name="usage_graph_green">#BFDB87</color>
+    <color name="green_light">#eaf1dd</color>
+    <color name="green_new">#719E19</color>
+    <color name="semi_green_new">#26719E19</color>
+    <color name="green_graph_type">#33719E19</color>
+    <color name="tooltip_color">#FF76348F</color>
+    <color name="heading_color_twenty_twenty">#FF76348F</color>
+    <color name="green_new_10">#E2719E19</color>
+    <color name="green_new_5">#80719E19</color>
+    <color name="warmGreyTwo">#9b9b9b</color>
+    <color name="greyishTwo">#bebdb6</color>
+    <color name="charcoal">#393c3a</color>
+    <color name="heading_color">#FF353738</color>
+    <color name="dash_gray_color">#5F5F5F</color>
+    <color name="rouge">#be1218</color>
+    <color name="rouge_trancparent">#B3be1218</color>
+    <color name="black_opacity53">#87000000</color>
+    <color name="coolGreyTwo">#9b9c9e</color>
+    <color name="greyishTwo_transparent">#0Dbebdb6</color>
+    <color name="etisalat_logo_color">#858582</color>
+    <color name="discount_box_color">#E6FF8000</color>
+    <color name="dash_color">#33353738</color>
+    <color name="semi_title_color">#80353738</color>
+    <color name="black43">#6E242424</color>
+    <color name="black05">#0D242424</color>
+    <color name="til_hint_color">#9b9c9e</color>
+    <color name="pumpkinOrangeTwo">#ff8100</color>
+    <color name="pumpkinOrangethree">#FE8307</color>
+    <color name="orange_light">#F5A623</color>
+    <color name="orange_light_spikes">#15ff7500</color>
+    <color name="orange_light_spikes_alpha_15">#26ff7500</color>
+    <color name="yellow_new">#ffcc00</color>
+    <color name="purple_light">#925DA6</color>
+    <color name="purple_banner">#EEDCF5</color>
+    <color name="transparent_black">#73000000</color>
+
+    <color name="brownishGreyThree">#6c6c6c</color>
+    <color name="steelGreyTwo">#698881</color>
+    <color name="charcoalGreyTwo">#384d48</color>
+    <color name="litegreyupdate">#999999</color>
+    <color name="lite_black">#3C3E3F</color>
+    <color name="black_emirates_bg">#2e2f30</color>
+    <color name="blacktext">#353738</color>
+    <color name="black54">#8A242424</color>
+
+
+    <color name="black_20">#33242424</color>
+    <color name="lipstick">#d01b84</color>
+
+    <color name="grey_dim">#FF000000</color>
+    <color name="image_shape">#433e3e</color>
+    <color name="toolbar_shadow">#242424</color>
+    <color name="divider_color_black">#4d4d4d</color>
+    <color name="colorSilver">#80FFFFFF</color>
+    <color name="blueLato">#0076ff</color>
+    <color name="bg_grey_edit_profile">#F4F4F4</color>
+    <color name="grey_expand">#f7f8f4</color>
+    <color name="pinkishGreyTwo">#bcbcbc</color>
+    <color name="black20">#44000000</color>
+    <color name="link_color">#0000EE</color>
+    <color name="black50">#77000000</color>
+    <color name="drakgrey50">#B32F3A38</color>
+    <color name="black70">#B32c2b2b</color>
+    <color name="white50">#80FFFFFF</color>
+    <color name="white80">#CCfcfcfc</color>
+    <color name="greyishBrownDividerColor">#4d4d4d</color>
+    <color name="light_grey">#d0d0d0</color>
+    <color name="lightGreen">#719e19</color>
+    <color name="lighterGreen">#D8EEB9</color>
+    <color name="light_Green">#26719E19</color>
+    <color name="macaroniAndCheese">#e3bf2d</color>
+    <color name="pure_black">#000000</color>
+    <color name="button_white">#F7F8F4</color>
+    <color name="extraLightGrey">#F6F6F6</color>
+    <color name="button_disabled_color">#727272</color>
+    <color name="button_disabled_color2">#D1D2D1</color>
+    <color name="medium_color">#FFDE2B</color>
+    <color name="strength_color">#A3C60B</color>
+    <color name="greydarker">#2F3A38</color>
+    <color name="grey_ash">#DADADA</color>
+    <color name="ash_white_bg">#F7F8F4</color>
+    <color name="payment_break_down_bg_color">#B3F7F8F4</color>
+    <color name="bg_red_list">#B31817</color>
+    <color name="erro_red">#B31817</color>
+    <color name="red_text">#d0021b</color>
+    <color name="statement_charge_color">#151515</color>
+    <color name="white_transparent">#00FFFFFF</color>
+    <color name="smart_phone_page_selected_indicator">#151515</color>
+    <color name="smart_phone_page_unselected_indicator">#C1C1C1</color>
+    <color name="list_grey_background">#CDCDCA</color>
+    <color name="deals_desc_color">#6F7273</color>
+    <color name="deals_background">#FAFAFA</color>
+    <color name="grey_new">#6f7273</color>
+    <color name="charged_red">#e3625e</color>
+    <color name="divider_grey">#fbfbfb</color>
+
+
+    <!-- Fingerprint Dialog Colors-->
+
+
+    <color name="warning_color">#f4511e</color>
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#009688</color>
+    <color name="lightgrey">#989898</color>
+    <color name="transparent_grey">#44242424</color>
+    <color name="greenish">#00941E</color>
+    <color name="graph_green">#9FDD25</color>
+    <color name="graph_white_green">#7BA529</color>
+    <color name="menu_overlay">#303E3B</color>
+    <color name="menu_overlay_alpha">#c3303e3b</color>
+    <color name="menu_white">#CCE2E1DA</color>
+    <color name="menu_selected">#252F2D</color>
+    <color name="transparentwhite">#CCffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="lightGreyTwo2">#f1f1eb</color>
+    <color name="home_bg">#FEFEFD</color>
+    <color name="grey_hint_live_chat">#4A4A4A</color>
+    <color name="nav_header_color">#992E3936</color>
+    <color name="transparent_progress">#00000000</color>
+    <color name="bg_profile">#2E3937</color>
+    <color name="lightGreyTwoAlpha">#66F1F1EB</color>
+    <color name="lighter_grey">#F1F1EB</color>
+    <color name="circle_grey">#dddddd</color>
+    <color name="yellow">#FFCC00</color>
+    <color name="border_line">#E2E1DA</color>
+    <color name="overlay">#33000000</color>
+    <color name="divier_line_mstore_packages">#EFEFE9</color>
+    <color name="divider_mstore_roaming_countries">#F2F2EC</color>
+    <color name="black_unselector">#B2B2B2</color>
+    <color name="raffle_border">#E9E9E2</color>
+    <color name="light_black">#555555</color>
+    <color name="green_auto_pay">#BEE70D</color>
+    <color name="indicator_home">#909090</color>
+    <color name="transparent_color">#CC000000</color>
+    <color name="semi_transparent_color">#00000000</color>
+    <color name="semi_transparent_color_new">#4D000000</color>
+    <color name="grey_light">#F9F9F9</color>
+    <color name="grey_light_2">#E0E2E3</color>
+    <color name="device_details_overlay">#0D393C3A</color>
+    <color name="raffle_subtext_color">#6C7275</color>
+    <color name="light_yellow">#ebbf09</color>
+    <color name="transparent_dialog_dark_color">#BF0A0A0A</color>
+    <color name="shop_account_color">#ACACA1</color>
+    <color name="bar_color2">#D4E1BA</color>
+    <color name="bg_all">#F9FAF6</color>
+    <color name="bg_manage">#FDFEFC</color>
+
+    <color name="graph_day_unselect">#B6B6B6</color>
+
+    <color name="transparent_black2">#40000000</color>
+    <color name="grey">#D7D7D7</color>
+    <color name="bg_dialog">#CC3F4142</color>
+
+    <color name="green_friday_plan_banner_limited_offer">#D01B84</color>
+    <color name="no_thanks_color">#e3625e</color>
+
+    <color name="sub_text_color">#868686</color>
+
+    //bar chart colors
+    <!--    <color name="secondary_progress">#D4E1BA</color>-->
+    <!--    <color name="primary_progress_start">#719E19</color>-->
+    <!--    <color name="primary_progress_end">#92C233</color>-->
+
+    <color name="text_color">#848789</color>
+    <color name="text_color_alpha_40">#66848789</color>
+    <color name="text_color_bill_summary_title">#6B6B6B</color>
+    <color name="item_bill_summary_bg_one">#FFF7F8F4</color>
+    <color name="item_bill_summary_bg_two">#E6FFFFFF</color>
+    <!--FFF7F8F4 />-->
+    <!--E6FFFFFF-->
+    <color name="separator">#F1F1EB</color>
+    <color name="round_gray">#DFDFDF</color>
+    <color name="gray_banner_bg">#767878</color>
+    <color name="notification_bg">#F4F7EB</color>
+    <color name="dark_gray">#3C3F40</color>
+    <color name="light_green">#F0F5E8</color>
+    <color name="light_green_bg">#719E18</color>
+    <color name="indicator_unselected_color">#D3D4D0</color>
+    <color name="indicator_selected_color">#5C5E5E</color>
+    <color name="grey_indicator">#D8D8D8</color>
+    <color name="text_color_bill_summary_title_new">#6F7275</color>
+
+    <color name="statement_filter_bg">#26729e19</color>
+    <color name="statement_filter_text">#729e19</color>
+    <color name="bg_2020_end_color">#f5f7eb</color>
+    <color name="bg_2020_start_color">#ffffff</color>
+    <color name="deals_pager_dot_selected_20">#cc353738</color>
+    <color name="deals_pager_dot_selected_80">#33353738</color>
+    <color name="colorPrimaryLight">#B3E5FC</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="gainsBoro">#BDBDBD</color>
+    <color name="whiteSmoke">#f4f4f4</color>
+    <color name="autoCompleteDivider">#D2D2D2</color>
+    <color name="elife_separator">#33FFFFFF</color>
+    <color name="color_disable">#ECECEC</color>
+    <color name="shopping_cart_bg">#FEFEFD</color>
+    <color name="bg_circle">#FAFAF5</color>
+    <color name="semi_transparant">#99000000</color>
+
+    <color name="secondary_progress">#D4E1BA</color>
+    <color name="primary_progress_start">#719E19</color>
+    <color name="primary_progress_end">#92C233</color>
+    <color name="promo">#ff8000</color>
+    <color name="timeline_grey">#f2f2ed</color>
+    <color name="card_error_color">#BFD6A29F</color>
+    <color name="bg_white_gray">#F4F7EB</color>
+    <color name="cart_badge_icon">#FFC900</color>
+    <color name="color_plan_selected">#eaf1dd</color>
+    <color name="plan_detail_promo_banner">#1AFF8000</color>
+
+
+    <color name="colorWhiteGray">#FAFAF8</color>
+    <color name="backgroundcolor">#FBFCFA</color>
+    <color name="green_check_usage">#719e19</color>
+    <color name="golden_start">#bea026</color>
+    <color name="golden_end">#e8c84a</color>
+    <color name="black_dot">#353738</color>
+    <color name="dark_grey_opacity20">#33353738</color>
+    <color name="disabled_background_grey">#8e8e8f</color>
+</resources>

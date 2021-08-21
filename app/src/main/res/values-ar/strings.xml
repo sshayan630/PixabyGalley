@@ -1,0 +1,33 @@
+<resources>
+    <string name="translate" translatable="false">English</string>
+
+
+    <!-- TODO: English Font -->
+    <string name="Lato_Regular_custom_btn">fonts/ge_ss_two_light.ttf</string>
+    <string name="NeoTechAlt_custom_btn">fonts/ge_ss_two_light.ttf</string>
+
+    <string name="Lato_Black">@string/neotech_helvetica</string>
+    <string name="Lato_Bold">@string/neotech_helvetica_bold</string>
+    <string name="Lato_Bold_custom">@string/neotech_helvetica_bold</string>
+    <string name="Lato_Heavy">fonts/Lato-Heavy.ttf</string>
+    <string name="Lato_Hairline">fonts/ge_ss_two_light.ttf</string>
+    <string name="Lato_Italic">fonts/ge_ss_two_light.ttf</string>
+    <string name="Lato_Light">fonts/Helvetica.ttf</string>
+    <string name="Lato_Medium">@string/neotech_helvetica</string>
+    <string name="Lato_Medium_one">fonts/Lato-Medium.ttf</string>
+    <string name="Lato_Medium_">fonts/ge_ss_two_medium.ttf</string>
+    <string name="Lato_SemiBold">fonts/ge_ss_two_medium.ttf</string>
+    <string name="Lato_Regular">fonts/Helvetica.ttf</string>
+
+    <string name="NeoTech">fonts/ge_ss_two_light.ttf</string>
+    <string name="NeoTechAlt">fonts/ge_ss_two_light.ttf</string>
+    <string name="NeoTechAlt_Medium">fonts/ge_ss_two_light.ttf</string>
+    <string name="Helvetic_Regular">fonts/Helvetica.ttf</string>
+    <string name="NeoTechAlt_Medium_arabic">fonts/Helvetica-Bold.otf</string>
+
+
+    <string name="neotech_arabic_number_font">fonts/NeoTechAlt.ttf</string>
+    <string name="neotech_helvetica">fonts/Helvetica.ttf</string>
+    <string name="neotech_helvetica_bold">fonts/Helvetica-Bold.otf</string>
+    <string name="default_notification_channel_id">notification_id</string>
+</resources>

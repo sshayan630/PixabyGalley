@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="item_margin_new_shop">7dp</dimen>
+
+    <dimen name="app_bar_height">198dp</dimen>
+    <dimen name="app_bar_height_scroll">200dp</dimen>
+    <dimen name="x_400">400dp</dimen>
+    <dimen name="x_208">208dp</dimen>
+    <dimen name="x_205">205dp</dimen>
+    <dimen name="x_12">12dp</dimen>
+
+    <!--    <dimen name="x_150">100dp</dimen>
+        <dimen name="x_1">1dp</dimen>
+        <dimen name="x_14">6dp</dimen>
+        <dimen name="x_20">8dp</dimen>
+        <dimen name="x_10">4dp</dimen>
+        <dimen name="x_36">15dp</dimen>
+        <dimen name="x_23">9dp</dimen>
+        <dimen name="x_18">7dp</dimen>
+        <dimen name="x_30">12dp</dimen>
+        <dimen name="x_25">10dp</dimen>
+        <dimen name="x_64">16dp</dimen>
+        <dimen name="x_15">6dp</dimen>-->
+
+</resources>

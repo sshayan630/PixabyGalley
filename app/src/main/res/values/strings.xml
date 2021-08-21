@@ -1,0 +1,70 @@
+<resources>
+    <string name="translate" translatable="false">العربية</string>
+
+    <string name="app_name" translatable="false">Pixaby</string>
+
+    <string-array name="customFonts">
+        <item>geeza_pro_regular.otf</item>
+        <item>graphik_medium.ttf</item>
+        <item>graphik_regular.ttf</item>
+        <item>graphik_semibold.ttf</item>
+        <item>helvetica_neue_bold.ttf</item>
+    </string-array>
+
+
+
+    <string name="Lato_Black">fonts/Lato-Black.ttf</string>
+    <string name="Lato_Heavy">fonts/Lato-Heavy.ttf</string>
+    <string name="Lato_Bold">fonts/Lato-Bold.ttf</string>
+    <string name="Lato_Bold_custom">fonts/Lato-Bold.ttf</string>
+
+    <string name="Lato_Hairline">fonts/Lato-Hairline.ttf</string>
+    <!--    <string name="Lato_Heavy">fonts/Lato-Heavy.ttf</string>-->
+    <string name="Lato_SemiBold">fonts/Lato-Semibold.ttf</string>
+
+    <string name="Lato_Italic">fonts/Lato-Italic.ttf</string>
+    <string name="Lato_Light">fonts/Lato-Light.ttf</string>
+    <string name="Lato_Medium">fonts/Lato-Medium.ttf</string>
+    <string name="Lato_Medium_one">fonts/Lato-Medium.ttf</string>
+    <string name="Lato_Medium_">fonts/Lato-Medium.ttf</string>
+    <string name="Lato_Regular">fonts/Lato-Regular.ttf</string>
+    <string name="NeoTech">fonts/NeoTech.ttf</string>
+    <string name="NeoTechAlt">fonts/NeoTechAlt.ttf</string>
+
+    <string name="NeoTechAlt_Medium">fonts/NeoTechAlt-Medium.ttf</string>
+    <string name="Helvetic_Regular">fonts/Helvetica.ttf</string>
+    <string name="NeoTechAlt_Medium_arabic">fonts/NeoTechAlt-Medium.ttf</string>
+
+
+
+
+    <!-- TODO: custom font for button text -->
+    <string name="neotech_arabic_number_font">fonts/NeoTechAlt.ttf</string>
+    <string name="neotech_helvetica">@string/NeoTechAlt</string>
+    <string name="neotech_helvetica_bold">@string/NeoTechAlt_Medium</string>
+
+
+
+    <string name="api_key" translatable="false">13522656-8c9a317fce5b35f7b79e67f58</string>
+    <string name="section" translatable="false">arts</string>
+    <string name="heading_text" translatable="false">Pixaby Gallery</string>
+
+    <string name="default_notification_channel_id">notification_id</string>
+
+    <string name="ok" translatable="false">OK</string>
+    <string name="cancel" translatable="false">CANCEL</string>
+    <string name="please_check_internet" translatable="false">Network is not available. Please try again.</string>
+     <string name="pixaby_detail_label" translatable="false">Detail</string>
+    <string name="no_data_found" translatable="false">No Pix Found</string>
+
+    <string name="text_search" translatable="false">Search</string>
+
+    <string-array name="array_environment">
+        <item>PROD</item>
+        <item>TEST</item>
+        <item>DEV</item>
+        <item>STAGE</item>
+        <item>CONFIG</item>
+        <item>SUPP</item>
+    </string-array>
+</resources>

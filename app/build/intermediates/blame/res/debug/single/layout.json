@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MainAppArchitecture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_base.xml",
+        "source": "D:\\MainAppArchitecture\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "D:\\MainAppArchitecture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_image_detail.xml",
+        "source": "D:\\MainAppArchitecture\\app\\src\\main\\res\\layout\\fragment_image_detail.xml"
+    },
+    {
+        "merged": "D:\\MainAppArchitecture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_pixaby.xml",
+        "source": "D:\\MainAppArchitecture\\app\\src\\main\\res\\layout\\item_pixaby.xml"
+    },
+    {
+        "merged": "D:\\MainAppArchitecture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home_gallery.xml",
+        "source": "D:\\MainAppArchitecture\\app\\src\\main\\res\\layout\\fragment_home_gallery.xml"
+    }
+]

@@ -1,0 +1,98 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">10dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="navigation_drawer_width">320dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="item_margin">5dp</dimen>
+    <dimen name="m_item_margin">8dp</dimen>
+    <dimen name="item_margin_new_shop">7dp</dimen>
+    <dimen name="app_bar_height_scroll">200dp</dimen>
+    <dimen name="design_navigation_separator_vertical_padding">0dp</dimen>
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">13sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">13sp</dimen>
+    <!-- dimensions -->
+
+    <dimen name="x_191">191dp</dimen>
+    <dimen name="x_235">235dp</dimen>
+    <dimen name="x_155">155dp</dimen>
+    <dimen name="x_160">160dp</dimen>
+    <dimen name="x_174">174dp</dimen>
+    <dimen name="x_173">173dp</dimen>
+    <dimen name="x_111">111dp</dimen>
+    <dimen name="x_73">73dp</dimen>
+    <dimen name="x_70">70dp</dimen>
+    <dimen name="x_60">60dp</dimen>
+    <dimen name="x_62">62dp</dimen>
+    <dimen name="x_64">74dp</dimen>
+    <dimen name="x_102">102dp</dimen>
+    <dimen name="x_56">56dp</dimen>
+    <dimen name="x_48">48dp</dimen>
+    <dimen name="x_92">92dp</dimen>
+    <dimen name="x_282">275dp</dimen>
+    <dimen name="x_49">49dp</dimen>
+    <dimen name="x_61">61dp</dimen>
+    <dimen name="x_18">18dp</dimen>
+    <dimen name="x_32">32dp</dimen>
+    <dimen name="x_164">164dp</dimen>
+    <dimen name="x_12">12dp</dimen>
+    <dimen name="x_14">14dp</dimen>
+    <dimen name="x_16">16dp</dimen>
+    <dimen name="x_13">13dp</dimen>
+    <dimen name="x_190">190dp</dimen>
+    <dimen name="x_80">80dp</dimen>
+    <dimen name="x_25">25dp</dimen>
+    <dimen name="x_10">10dp</dimen>
+    <dimen name="x_94">94dp</dimen>
+    <dimen name="x_20">20dp</dimen>
+    <dimen name="x_24">24dp</dimen>
+    <dimen name="x_30">30dp</dimen>
+    <dimen name="x_23">23dp</dimen>
+    <dimen name="x_15">15dp</dimen>
+    <dimen name="x_40">40dp</dimen>
+    <dimen name="x_5">5dp</dimen>
+    <dimen name="x_36">36dp</dimen>
+    <dimen name="x_42">42dp</dimen>
+    <dimen name="x_27">27dp</dimen>
+    <dimen name="x_220">220dp</dimen>
+    <dimen name="x_128">128dp</dimen>
+    <dimen name="x_130">130dp</dimen>
+    <dimen name="x_140">140dp</dimen>
+    <dimen name="x_242">242dp</dimen>
+
+    <dimen name="s10">10sp</dimen>
+    <dimen name="s15">15sp</dimen>
+    <dimen name="s13">13sp</dimen>
+    <dimen name="s18">18sp</dimen>
+    <dimen name="s12">12sp</dimen>
+    <dimen name="s16">16sp</dimen>
+    <dimen name="s20">20sp</dimen>
+    <dimen name="s21">21sp</dimen>
+    <dimen name="s24">24sp</dimen>
+    <dimen name="s28">28sp</dimen>
+    <dimen name="s14">14sp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="x_55">55dp</dimen>
+    <dimen name="x_8">8dp</dimen>
+    <dimen name="x_50">50dp</dimen>
+    <dimen name="s40">40sp</dimen>
+    <dimen name="x_2">2dp</dimen>
+    <dimen name="x_3">3dp</dimen>
+    <dimen name="s45">45sp</dimen>
+    <dimen name="x_145">145dp</dimen>
+    <dimen name="x_11">11dp</dimen>
+    <dimen name="s11">11sp</dimen>
+    <dimen name="x_200">200dp</dimen>
+    <dimen name="x_19">19dp</dimen>
+    <dimen name="x_7">7dp</dimen>
+    <dimen name="x_44">44dp</dimen>
+    <dimen name="x_400">400dp</dimen>
+    <dimen name="x_208">208dp</dimen>
+    <dimen name="x_205">205dp</dimen>
+    <dimen name="x_194">194dp</dimen>
+
+</resources>
